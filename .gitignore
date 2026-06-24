@@ -1,0 +1,43 @@
+# Data downloaded from Kaggle; not committed
+
+data/
+
+# Generated artifacts: VW files, models, predictions, and submissions
+
+outputs/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+
+.env
+.env.*
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+
+.vscode/
+.idea/
+
+# Local article / notebook drafts not committed
+
+Medium_Article.md
+spooky_portfolio_executed.ipynb
